@@ -57,7 +57,7 @@
 }
 
 .item-input {
-  background-image: url('/practica/instagram/images/search-icons.png');
+ background-image: url('../images/search-icons.png');
   background-repeat: no-repeat;
   background-position: 15px center;
   background-size: 14px;
